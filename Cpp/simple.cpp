@@ -5,6 +5,7 @@ iostream header file */
 using namespace std;
 // The main() function identifies the starting point of a C++ program
   int main(){
-    cout("learnig c++ as a WIZARD! \n haha!");
+    cout <<"learnig c++ as a WIZARD! \n haha!";
     return 0;
 }
+   

@@ -1,6 +1,6 @@
 ## *Coding*
 `````
-here I try to practice every concepts of C&C++ 
+here I try to practice every concepts of `C&C++`
 ``````
 
 

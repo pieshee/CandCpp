@@ -1,5 +1,5 @@
 ## *Coding*
-:point_right: here I try to practice every concepts of `C&C++` 
+here I try to practice every concepts of `C&C++` 
 the newest old languages
 
 

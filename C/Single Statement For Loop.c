@@ -1,5 +1,5 @@
 //simple loop
-
+//standard input/output
 #include<stdio.h>
 void main(){
 int i;

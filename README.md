@@ -1,5 +1,5 @@
 ## *Coding*
-here I practice every concepts of `C&C++` 
+ practice every concepts of `C&C++` 
 the newest old language
 
 

@@ -3,6 +3,9 @@
 // Given the length and width of a rectangle, this C++ program
 // computes and outputs the perimeter and area of the rectangle.
 //**************************************************************
+
+//preprocessor commands begin with a pound sign (#)
+//preprocessor commands don’t end with a semicolon
 #include <iostream> 
 using namespace std;
 

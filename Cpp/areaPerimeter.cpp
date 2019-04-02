@@ -6,7 +6,7 @@
 
 //preprocessor commands begin with a pound sign (#)
 //preprocessor commands don’t end with a semicolon
-// iostream contains (class)
+//iostream contains (class)
 
 #include <iostream> 
 //standard library contains header file of iostream
